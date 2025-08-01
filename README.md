@@ -12,8 +12,8 @@
 ## 🎓 Education
 
 - **B.E. in Computer Engineering**  
-  DY Patil College of Engineering, Pimpri, India  
-  **2025** | CGPA: 8.47 / 10.00
+  DY Patil Institute of Technology, Pimpri, India  
+  **2025** | CGPA: 8.57 / 10.00
 
 - **Higher Secondary Education (12th) in PCM + CS**  
   Air Force School, Viman Nagar, Pune, India  
